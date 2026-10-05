@@ -1,3 +1,4 @@
+#單筆消費
 money=float(input('請輸入總金額:'))
 people=int(input('人數:'))
 payer=input('付款人:')
